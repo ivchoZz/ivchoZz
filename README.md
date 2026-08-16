@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivchoZz
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning python#
 - 📫 How to reach me iv4o.zdravkov.06@gmail.com
 
 <!---
